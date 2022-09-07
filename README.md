@@ -3,7 +3,9 @@
 
 > I wanted to know the factors that drove trips durations and i explored the other variables in this data set with the trip duration. I was curious about whether gender, member type, bike sharing, day of the week or time of the day affected how long trips lasted. The data set can be downloaded here.   
 
-## Summary of Findings  > It was observed that there were more male than female members, however females spent more time on trips. Most of the members were subscribers rather than just customers. Most members dont share bikes on trips but those that do spent less time on trips. 
+## Summary of Findings  
+
+> It was observed that there were more male than female members, however females spent more time on trips. Most of the members were subscribers rather than just customers. Most members dont share bikes on trips but those that do spent less time on trips. 
 
 > More trips occurred on Thursdays and Tuesdays than the other days. The least trips occurred during the weekend but they usually last longer 
 
